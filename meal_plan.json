@@ -1,0 +1,800 @@
+{
+  "user": {
+    "name": "json",
+    "age": 23,
+    "dietary_preferences": "non-veg"
+  },
+  "calorie_target": 1800,
+  "days": [
+    {
+      "day": 1,
+      "meals": [
+        {
+          "type": "breakfast",
+          "recipe": {
+            "name": "Curd + fruit + 2 parathas",
+            "ingredients": [
+              "curd",
+              "banana",
+              "whole wheat flour"
+            ],
+            "tags": [
+              "veg"
+            ]
+          },
+          "nutrition": {
+            "title": "Sample recipe: curd + banana + whole wheat flour",
+            "calories_per_serving": 400.0,
+            "protein_g": 25,
+            "fat_g": 12,
+            "carbs_g": 45,
+            "calories_targeted": 396
+          }
+        },
+        {
+          "type": "lunch",
+          "recipe": {
+            "name": "Dal + brown rice + sabzi",
+            "ingredients": [
+              "lentils",
+              "brown rice",
+              "mixed veg"
+            ],
+            "tags": [
+              "veg"
+            ]
+          },
+          "nutrition": {
+            "title": "Sample recipe: lentils + brown rice + mixed veg",
+            "calories_per_serving": 400.0,
+            "protein_g": 25,
+            "fat_g": 12,
+            "carbs_g": 45,
+            "calories_targeted": 612
+          }
+        },
+        {
+          "type": "dinner",
+          "recipe": {
+            "name": "Mixed vegetable curry + roti",
+            "ingredients": [
+              "mixed veg",
+              "spices",
+              "wheat"
+            ],
+            "tags": [
+              "veg"
+            ]
+          },
+          "nutrition": {
+            "title": "Sample recipe: mixed veg + spices + wheat",
+            "calories_per_serving": 400.0,
+            "protein_g": 25,
+            "fat_g": 12,
+            "carbs_g": 45,
+            "calories_targeted": 540
+          }
+        },
+        {
+          "type": "snack_1",
+          "recipe": {
+            "name": "Peanut chikki (small)",
+            "ingredients": [
+              "peanuts",
+              "jaggery"
+            ],
+            "tags": [
+              "veg"
+            ]
+          },
+          "nutrition": {
+            "title": "Sample recipe: peanuts + jaggery",
+            "calories_per_serving": 400.0,
+            "protein_g": 25,
+            "fat_g": 12,
+            "carbs_g": 45,
+            "calories_targeted": 126
+          }
+        },
+        {
+          "type": "snack_2",
+          "recipe": {
+            "name": "Fruit + curd",
+            "ingredients": [
+              "apple",
+              "curd"
+            ],
+            "tags": [
+              "veg"
+            ]
+          },
+          "nutrition": {
+            "title": "Sample recipe: apple + curd",
+            "calories_per_serving": 400.0,
+            "protein_g": 25,
+            "fat_g": 12,
+            "carbs_g": 45,
+            "calories_targeted": 126
+          }
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "meals": [
+        {
+          "type": "breakfast",
+          "recipe": {
+            "name": "Poha with peanuts",
+            "ingredients": [
+              "poha",
+              "peanuts",
+              "onion",
+              "turmeric"
+            ],
+            "tags": [
+              "veg"
+            ]
+          },
+          "nutrition": {
+            "title": "Sample recipe: poha + peanuts + onion",
+            "calories_per_serving": 400.0,
+            "protein_g": 25,
+            "fat_g": 12,
+            "carbs_g": 45,
+            "calories_targeted": 396
+          }
+        },
+        {
+          "type": "lunch",
+          "recipe": {
+            "name": "Dal + brown rice + sabzi",
+            "ingredients": [
+              "lentils",
+              "brown rice",
+              "mixed veg"
+            ],
+            "tags": [
+              "veg"
+            ]
+          },
+          "nutrition": {
+            "title": "Sample recipe: lentils + brown rice + mixed veg",
+            "calories_per_serving": 400.0,
+            "protein_g": 25,
+            "fat_g": 12,
+            "carbs_g": 45,
+            "calories_targeted": 612
+          }
+        },
+        {
+          "type": "dinner",
+          "recipe": {
+            "name": "Palak paneer + roti",
+            "ingredients": [
+              "spinach",
+              "paneer",
+              "wheat"
+            ],
+            "tags": [
+              "veg"
+            ]
+          },
+          "nutrition": {
+            "title": "Sample recipe: spinach + paneer + wheat",
+            "calories_per_serving": 400.0,
+            "protein_g": 25,
+            "fat_g": 12,
+            "carbs_g": 45,
+            "calories_targeted": 540
+          }
+        },
+        {
+          "type": "snack_1",
+          "recipe": {
+            "name": "Roasted chana",
+            "ingredients": [
+              "roasted chana"
+            ],
+            "tags": [
+              "veg"
+            ]
+          },
+          "nutrition": {
+            "title": "Sample recipe: roasted chana",
+            "calories_per_serving": 400.0,
+            "protein_g": 25,
+            "fat_g": 12,
+            "carbs_g": 45,
+            "calories_targeted": 126
+          }
+        },
+        {
+          "type": "snack_2",
+          "recipe": {
+            "name": "Roasted chana",
+            "ingredients": [
+              "roasted chana"
+            ],
+            "tags": [
+              "veg"
+            ]
+          },
+          "nutrition": {
+            "title": "Sample recipe: roasted chana",
+            "calories_per_serving": 400.0,
+            "protein_g": 25,
+            "fat_g": 12,
+            "carbs_g": 45,
+            "calories_targeted": 126
+          }
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "meals": [
+        {
+          "type": "breakfast",
+          "recipe": {
+            "name": "Curd + fruit + 2 parathas",
+            "ingredients": [
+              "curd",
+              "banana",
+              "whole wheat flour"
+            ],
+            "tags": [
+              "veg"
+            ]
+          },
+          "nutrition": {
+            "title": "Sample recipe: curd + banana + whole wheat flour",
+            "calories_per_serving": 400.0,
+            "protein_g": 25,
+            "fat_g": 12,
+            "carbs_g": 45,
+            "calories_targeted": 396
+          }
+        },
+        {
+          "type": "lunch",
+          "recipe": {
+            "name": "Rajma + rice + salad",
+            "ingredients": [
+              "kidney beans",
+              "rice",
+              "cucumber"
+            ],
+            "tags": [
+              "veg"
+            ]
+          },
+          "nutrition": {
+            "title": "Sample recipe: kidney beans + rice + cucumber",
+            "calories_per_serving": 400.0,
+            "protein_g": 25,
+            "fat_g": 12,
+            "carbs_g": 45,
+            "calories_targeted": 612
+          }
+        },
+        {
+          "type": "dinner",
+          "recipe": {
+            "name": "Mixed vegetable curry + roti",
+            "ingredients": [
+              "mixed veg",
+              "spices",
+              "wheat"
+            ],
+            "tags": [
+              "veg"
+            ]
+          },
+          "nutrition": {
+            "title": "Sample recipe: mixed veg + spices + wheat",
+            "calories_per_serving": 400.0,
+            "protein_g": 25,
+            "fat_g": 12,
+            "carbs_g": 45,
+            "calories_targeted": 540
+          }
+        },
+        {
+          "type": "snack_1",
+          "recipe": {
+            "name": "Roasted chana",
+            "ingredients": [
+              "roasted chana"
+            ],
+            "tags": [
+              "veg"
+            ]
+          },
+          "nutrition": {
+            "title": "Sample recipe: roasted chana",
+            "calories_per_serving": 400.0,
+            "protein_g": 25,
+            "fat_g": 12,
+            "carbs_g": 45,
+            "calories_targeted": 126
+          }
+        },
+        {
+          "type": "snack_2",
+          "recipe": {
+            "name": "Roasted chana",
+            "ingredients": [
+              "roasted chana"
+            ],
+            "tags": [
+              "veg"
+            ]
+          },
+          "nutrition": {
+            "title": "Sample recipe: roasted chana",
+            "calories_per_serving": 400.0,
+            "protein_g": 25,
+            "fat_g": 12,
+            "carbs_g": 45,
+            "calories_targeted": 126
+          }
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "meals": [
+        {
+          "type": "breakfast",
+          "recipe": {
+            "name": "Poha with peanuts",
+            "ingredients": [
+              "poha",
+              "peanuts",
+              "onion",
+              "turmeric"
+            ],
+            "tags": [
+              "veg"
+            ]
+          },
+          "nutrition": {
+            "title": "Sample recipe: poha + peanuts + onion",
+            "calories_per_serving": 400.0,
+            "protein_g": 25,
+            "fat_g": 12,
+            "carbs_g": 45,
+            "calories_targeted": 396
+          }
+        },
+        {
+          "type": "lunch",
+          "recipe": {
+            "name": "Dal + brown rice + sabzi",
+            "ingredients": [
+              "lentils",
+              "brown rice",
+              "mixed veg"
+            ],
+            "tags": [
+              "veg"
+            ]
+          },
+          "nutrition": {
+            "title": "Sample recipe: lentils + brown rice + mixed veg",
+            "calories_per_serving": 400.0,
+            "protein_g": 25,
+            "fat_g": 12,
+            "carbs_g": 45,
+            "calories_targeted": 612
+          }
+        },
+        {
+          "type": "dinner",
+          "recipe": {
+            "name": "Palak paneer + roti",
+            "ingredients": [
+              "spinach",
+              "paneer",
+              "wheat"
+            ],
+            "tags": [
+              "veg"
+            ]
+          },
+          "nutrition": {
+            "title": "Sample recipe: spinach + paneer + wheat",
+            "calories_per_serving": 400.0,
+            "protein_g": 25,
+            "fat_g": 12,
+            "carbs_g": 45,
+            "calories_targeted": 540
+          }
+        },
+        {
+          "type": "snack_1",
+          "recipe": {
+            "name": "Roasted chana",
+            "ingredients": [
+              "roasted chana"
+            ],
+            "tags": [
+              "veg"
+            ]
+          },
+          "nutrition": {
+            "title": "Sample recipe: roasted chana",
+            "calories_per_serving": 400.0,
+            "protein_g": 25,
+            "fat_g": 12,
+            "carbs_g": 45,
+            "calories_targeted": 126
+          }
+        },
+        {
+          "type": "snack_2",
+          "recipe": {
+            "name": "Fruit + curd",
+            "ingredients": [
+              "apple",
+              "curd"
+            ],
+            "tags": [
+              "veg"
+            ]
+          },
+          "nutrition": {
+            "title": "Sample recipe: apple + curd",
+            "calories_per_serving": 400.0,
+            "protein_g": 25,
+            "fat_g": 12,
+            "carbs_g": 45,
+            "calories_targeted": 126
+          }
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "meals": [
+        {
+          "type": "breakfast",
+          "recipe": {
+            "name": "Curd + fruit + 2 parathas",
+            "ingredients": [
+              "curd",
+              "banana",
+              "whole wheat flour"
+            ],
+            "tags": [
+              "veg"
+            ]
+          },
+          "nutrition": {
+            "title": "Sample recipe: curd + banana + whole wheat flour",
+            "calories_per_serving": 400.0,
+            "protein_g": 25,
+            "fat_g": 12,
+            "carbs_g": 45,
+            "calories_targeted": 396
+          }
+        },
+        {
+          "type": "lunch",
+          "recipe": {
+            "name": "Paneer bhurji + roti",
+            "ingredients": [
+              "paneer",
+              "onion",
+              "tomato",
+              "wheat"
+            ],
+            "tags": [
+              "veg"
+            ]
+          },
+          "nutrition": {
+            "title": "Sample recipe: paneer + onion + tomato",
+            "calories_per_serving": 400.0,
+            "protein_g": 25,
+            "fat_g": 12,
+            "carbs_g": 45,
+            "calories_targeted": 612
+          }
+        },
+        {
+          "type": "dinner",
+          "recipe": {
+            "name": "Palak paneer + roti",
+            "ingredients": [
+              "spinach",
+              "paneer",
+              "wheat"
+            ],
+            "tags": [
+              "veg"
+            ]
+          },
+          "nutrition": {
+            "title": "Sample recipe: spinach + paneer + wheat",
+            "calories_per_serving": 400.0,
+            "protein_g": 25,
+            "fat_g": 12,
+            "carbs_g": 45,
+            "calories_targeted": 540
+          }
+        },
+        {
+          "type": "snack_1",
+          "recipe": {
+            "name": "Buttermilk + roasted makhana",
+            "ingredients": [
+              "buttermilk",
+              "makhana"
+            ],
+            "tags": [
+              "veg"
+            ]
+          },
+          "nutrition": {
+            "title": "Sample recipe: buttermilk + makhana",
+            "calories_per_serving": 400.0,
+            "protein_g": 25,
+            "fat_g": 12,
+            "carbs_g": 45,
+            "calories_targeted": 126
+          }
+        },
+        {
+          "type": "snack_2",
+          "recipe": {
+            "name": "Fruit + curd",
+            "ingredients": [
+              "apple",
+              "curd"
+            ],
+            "tags": [
+              "veg"
+            ]
+          },
+          "nutrition": {
+            "title": "Sample recipe: apple + curd",
+            "calories_per_serving": 400.0,
+            "protein_g": 25,
+            "fat_g": 12,
+            "carbs_g": 45,
+            "calories_targeted": 126
+          }
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "meals": [
+        {
+          "type": "breakfast",
+          "recipe": {
+            "name": "Upma with vegetables",
+            "ingredients": [
+              "semolina",
+              "carrot",
+              "peas",
+              "mustard seeds"
+            ],
+            "tags": [
+              "veg"
+            ]
+          },
+          "nutrition": {
+            "title": "Sample recipe: semolina + carrot + peas",
+            "calories_per_serving": 400.0,
+            "protein_g": 25,
+            "fat_g": 12,
+            "carbs_g": 45,
+            "calories_targeted": 396
+          }
+        },
+        {
+          "type": "lunch",
+          "recipe": {
+            "name": "Paneer bhurji + roti",
+            "ingredients": [
+              "paneer",
+              "onion",
+              "tomato",
+              "wheat"
+            ],
+            "tags": [
+              "veg"
+            ]
+          },
+          "nutrition": {
+            "title": "Sample recipe: paneer + onion + tomato",
+            "calories_per_serving": 400.0,
+            "protein_g": 25,
+            "fat_g": 12,
+            "carbs_g": 45,
+            "calories_targeted": 612
+          }
+        },
+        {
+          "type": "dinner",
+          "recipe": {
+            "name": "Chole + bhatura (small)",
+            "ingredients": [
+              "chickpeas",
+              "spices",
+              "flour"
+            ],
+            "tags": [
+              "veg"
+            ]
+          },
+          "nutrition": {
+            "title": "Sample recipe: chickpeas + spices + flour",
+            "calories_per_serving": 400.0,
+            "protein_g": 25,
+            "fat_g": 12,
+            "carbs_g": 45,
+            "calories_targeted": 540
+          }
+        },
+        {
+          "type": "snack_1",
+          "recipe": {
+            "name": "Roasted chana",
+            "ingredients": [
+              "roasted chana"
+            ],
+            "tags": [
+              "veg"
+            ]
+          },
+          "nutrition": {
+            "title": "Sample recipe: roasted chana",
+            "calories_per_serving": 400.0,
+            "protein_g": 25,
+            "fat_g": 12,
+            "carbs_g": 45,
+            "calories_targeted": 126
+          }
+        },
+        {
+          "type": "snack_2",
+          "recipe": {
+            "name": "Fruit + curd",
+            "ingredients": [
+              "apple",
+              "curd"
+            ],
+            "tags": [
+              "veg"
+            ]
+          },
+          "nutrition": {
+            "title": "Sample recipe: apple + curd",
+            "calories_per_serving": 400.0,
+            "protein_g": 25,
+            "fat_g": 12,
+            "carbs_g": 45,
+            "calories_targeted": 126
+          }
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "meals": [
+        {
+          "type": "breakfast",
+          "recipe": {
+            "name": "Curd + fruit + 2 parathas",
+            "ingredients": [
+              "curd",
+              "banana",
+              "whole wheat flour"
+            ],
+            "tags": [
+              "veg"
+            ]
+          },
+          "nutrition": {
+            "title": "Sample recipe: curd + banana + whole wheat flour",
+            "calories_per_serving": 400.0,
+            "protein_g": 25,
+            "fat_g": 12,
+            "carbs_g": 45,
+            "calories_targeted": 396
+          }
+        },
+        {
+          "type": "lunch",
+          "recipe": {
+            "name": "Rajma + rice + salad",
+            "ingredients": [
+              "kidney beans",
+              "rice",
+              "cucumber"
+            ],
+            "tags": [
+              "veg"
+            ]
+          },
+          "nutrition": {
+            "title": "Sample recipe: kidney beans + rice + cucumber",
+            "calories_per_serving": 400.0,
+            "protein_g": 25,
+            "fat_g": 12,
+            "carbs_g": 45,
+            "calories_targeted": 612
+          }
+        },
+        {
+          "type": "dinner",
+          "recipe": {
+            "name": "Chole + bhatura (small)",
+            "ingredients": [
+              "chickpeas",
+              "spices",
+              "flour"
+            ],
+            "tags": [
+              "veg"
+            ]
+          },
+          "nutrition": {
+            "title": "Sample recipe: chickpeas + spices + flour",
+            "calories_per_serving": 400.0,
+            "protein_g": 25,
+            "fat_g": 12,
+            "carbs_g": 45,
+            "calories_targeted": 540
+          }
+        },
+        {
+          "type": "snack_1",
+          "recipe": {
+            "name": "Peanut chikki (small)",
+            "ingredients": [
+              "peanuts",
+              "jaggery"
+            ],
+            "tags": [
+              "veg"
+            ]
+          },
+          "nutrition": {
+            "title": "Sample recipe: peanuts + jaggery",
+            "calories_per_serving": 400.0,
+            "protein_g": 25,
+            "fat_g": 12,
+            "carbs_g": 45,
+            "calories_targeted": 126
+          }
+        },
+        {
+          "type": "snack_2",
+          "recipe": {
+            "name": "Fruit + curd",
+            "ingredients": [
+              "apple",
+              "curd"
+            ],
+            "tags": [
+              "veg"
+            ]
+          },
+          "nutrition": {
+            "title": "Sample recipe: apple + curd",
+            "calories_per_serving": 400.0,
+            "protein_g": 25,
+            "fat_g": 12,
+            "carbs_g": 45,
+            "calories_targeted": 126
+          }
+        }
+      ]
+    }
+  ]
+}

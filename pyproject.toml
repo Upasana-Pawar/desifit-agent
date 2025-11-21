@@ -1,0 +1,19 @@
+[tool.pytest.ini_options]
+pythonpath = [
+    "src"
+]
+
+[build-system]
+requires = ["setuptools>=61", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "desifit_agent"
+version = "0.1.0"
+description = "DesiFit: Indian-aware meal + fitness planner agent (capstone scaffold)"
+authors = [
+  { name = "Upasana" }
+]
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
