@@ -1,11 +1,11 @@
 {
-  "name": "json",
-  "age": 23,
+  "name": "Upasana ",
+  "age": 25,
   "sex": "female",
-  "height_cm": 175.0,
+  "height_cm": 162.0,
   "weight_kg": 70.0,
-  "activity_level": "lightg",
-  "goal": "lose weight ",
+  "activity_level": "light",
+  "goal": "lose_weight ",
   "target_rate_kg_per_week": 0.5,
   "dietary_preferences": "non-veg"
 }

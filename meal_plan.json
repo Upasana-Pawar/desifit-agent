@@ -1,10 +1,10 @@
 {
   "user": {
-    "name": "json",
-    "age": 23,
+    "name": "Upasana ",
+    "age": 25,
     "dietary_preferences": "non-veg"
   },
-  "calorie_target": 1800,
+  "calorie_target": 1961.0,
   "days": [
     {
       "day": 1,
@@ -28,7 +28,7 @@
             "protein_g": 25,
             "fat_g": 12,
             "carbs_g": 45,
-            "calories_targeted": 396
+            "calories_targeted": 431
           }
         },
         {
@@ -50,7 +50,7 @@
             "protein_g": 25,
             "fat_g": 12,
             "carbs_g": 45,
-            "calories_targeted": 612
+            "calories_targeted": 667
           }
         },
         {
@@ -72,7 +72,7 @@
             "protein_g": 25,
             "fat_g": 12,
             "carbs_g": 45,
-            "calories_targeted": 540
+            "calories_targeted": 588
           }
         },
         {
@@ -93,7 +93,7 @@
             "protein_g": 25,
             "fat_g": 12,
             "carbs_g": 45,
-            "calories_targeted": 126
+            "calories_targeted": 138
           }
         },
         {
@@ -114,7 +114,7 @@
             "protein_g": 25,
             "fat_g": 12,
             "carbs_g": 45,
-            "calories_targeted": 126
+            "calories_targeted": 138
           }
         }
       ]
@@ -142,7 +142,7 @@
             "protein_g": 25,
             "fat_g": 12,
             "carbs_g": 45,
-            "calories_targeted": 396
+            "calories_targeted": 431
           }
         },
         {
@@ -164,7 +164,7 @@
             "protein_g": 25,
             "fat_g": 12,
             "carbs_g": 45,
-            "calories_targeted": 612
+            "calories_targeted": 667
           }
         },
         {
@@ -186,7 +186,7 @@
             "protein_g": 25,
             "fat_g": 12,
             "carbs_g": 45,
-            "calories_targeted": 540
+            "calories_targeted": 588
           }
         },
         {
@@ -206,7 +206,7 @@
             "protein_g": 25,
             "fat_g": 12,
             "carbs_g": 45,
-            "calories_targeted": 126
+            "calories_targeted": 138
           }
         },
         {
@@ -226,7 +226,7 @@
             "protein_g": 25,
             "fat_g": 12,
             "carbs_g": 45,
-            "calories_targeted": 126
+            "calories_targeted": 138
           }
         }
       ]
@@ -253,7 +253,7 @@
             "protein_g": 25,
             "fat_g": 12,
             "carbs_g": 45,
-            "calories_targeted": 396
+            "calories_targeted": 431
           }
         },
         {
@@ -275,7 +275,7 @@
             "protein_g": 25,
             "fat_g": 12,
             "carbs_g": 45,
-            "calories_targeted": 612
+            "calories_targeted": 667
           }
         },
         {
@@ -297,7 +297,7 @@
             "protein_g": 25,
             "fat_g": 12,
             "carbs_g": 45,
-            "calories_targeted": 540
+            "calories_targeted": 588
           }
         },
         {
@@ -317,7 +317,7 @@
             "protein_g": 25,
             "fat_g": 12,
             "carbs_g": 45,
-            "calories_targeted": 126
+            "calories_targeted": 138
           }
         },
         {
@@ -337,7 +337,7 @@
             "protein_g": 25,
             "fat_g": 12,
             "carbs_g": 45,
-            "calories_targeted": 126
+            "calories_targeted": 138
           }
         }
       ]
@@ -365,7 +365,7 @@
             "protein_g": 25,
             "fat_g": 12,
             "carbs_g": 45,
-            "calories_targeted": 396
+            "calories_targeted": 431
           }
         },
         {
@@ -387,7 +387,7 @@
             "protein_g": 25,
             "fat_g": 12,
             "carbs_g": 45,
-            "calories_targeted": 612
+            "calories_targeted": 667
           }
         },
         {
@@ -409,7 +409,7 @@
             "protein_g": 25,
             "fat_g": 12,
             "carbs_g": 45,
-            "calories_targeted": 540
+            "calories_targeted": 588
           }
         },
         {
@@ -429,7 +429,7 @@
             "protein_g": 25,
             "fat_g": 12,
             "carbs_g": 45,
-            "calories_targeted": 126
+            "calories_targeted": 138
           }
         },
         {
@@ -450,7 +450,7 @@
             "protein_g": 25,
             "fat_g": 12,
             "carbs_g": 45,
-            "calories_targeted": 126
+            "calories_targeted": 138
           }
         }
       ]
@@ -477,7 +477,7 @@
             "protein_g": 25,
             "fat_g": 12,
             "carbs_g": 45,
-            "calories_targeted": 396
+            "calories_targeted": 431
           }
         },
         {
@@ -500,7 +500,7 @@
             "protein_g": 25,
             "fat_g": 12,
             "carbs_g": 45,
-            "calories_targeted": 612
+            "calories_targeted": 667
           }
         },
         {
@@ -522,7 +522,7 @@
             "protein_g": 25,
             "fat_g": 12,
             "carbs_g": 45,
-            "calories_targeted": 540
+            "calories_targeted": 588
           }
         },
         {
@@ -543,7 +543,7 @@
             "protein_g": 25,
             "fat_g": 12,
             "carbs_g": 45,
-            "calories_targeted": 126
+            "calories_targeted": 138
           }
         },
         {
@@ -564,7 +564,7 @@
             "protein_g": 25,
             "fat_g": 12,
             "carbs_g": 45,
-            "calories_targeted": 126
+            "calories_targeted": 138
           }
         }
       ]
@@ -592,7 +592,7 @@
             "protein_g": 25,
             "fat_g": 12,
             "carbs_g": 45,
-            "calories_targeted": 396
+            "calories_targeted": 431
           }
         },
         {
@@ -615,7 +615,7 @@
             "protein_g": 25,
             "fat_g": 12,
             "carbs_g": 45,
-            "calories_targeted": 612
+            "calories_targeted": 667
           }
         },
         {
@@ -637,7 +637,7 @@
             "protein_g": 25,
             "fat_g": 12,
             "carbs_g": 45,
-            "calories_targeted": 540
+            "calories_targeted": 588
           }
         },
         {
@@ -657,7 +657,7 @@
             "protein_g": 25,
             "fat_g": 12,
             "carbs_g": 45,
-            "calories_targeted": 126
+            "calories_targeted": 138
           }
         },
         {
@@ -678,7 +678,7 @@
             "protein_g": 25,
             "fat_g": 12,
             "carbs_g": 45,
-            "calories_targeted": 126
+            "calories_targeted": 138
           }
         }
       ]
@@ -705,7 +705,7 @@
             "protein_g": 25,
             "fat_g": 12,
             "carbs_g": 45,
-            "calories_targeted": 396
+            "calories_targeted": 431
           }
         },
         {
@@ -727,7 +727,7 @@
             "protein_g": 25,
             "fat_g": 12,
             "carbs_g": 45,
-            "calories_targeted": 612
+            "calories_targeted": 667
           }
         },
         {
@@ -749,7 +749,7 @@
             "protein_g": 25,
             "fat_g": 12,
             "carbs_g": 45,
-            "calories_targeted": 540
+            "calories_targeted": 588
           }
         },
         {
@@ -770,7 +770,7 @@
             "protein_g": 25,
             "fat_g": 12,
             "carbs_g": 45,
-            "calories_targeted": 126
+            "calories_targeted": 138
           }
         },
         {
@@ -791,7 +791,7 @@
             "protein_g": 25,
             "fat_g": 12,
             "carbs_g": 45,
-            "calories_targeted": 126
+            "calories_targeted": 138
           }
         }
       ]

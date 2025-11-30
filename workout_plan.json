@@ -1,0 +1,132 @@
+{
+  "week_index": 0,
+  "goal": "lose_weight ",
+  "days_per_week": 4,
+  "equipment": "gym",
+  "days": [
+    {
+      "day_index": 0,
+      "focus": "full_body",
+      "equipment": "gym",
+      "goal": "lose_weight ",
+      "exercises": [
+        {
+          "name": "Squats (barbell or smith machine)",
+          "scheme": "3 sets x 10\u201315 reps"
+        },
+        {
+          "name": "Romanian deadlifts",
+          "scheme": "3 sets x 10\u201315 reps"
+        },
+        {
+          "name": "Lat pulldown or assisted pull-ups",
+          "scheme": "3 sets x 10\u201315 reps"
+        },
+        {
+          "name": "Dumbbell bench press",
+          "scheme": "3 sets x 10\u201315 reps"
+        },
+        {
+          "name": "Treadmill walk (incline)",
+          "scheme": "20\u201330 min"
+        }
+      ]
+    },
+    {
+      "day_index": 1,
+      "focus": "upper_body",
+      "equipment": "gym",
+      "goal": "lose_weight ",
+      "exercises": [
+        {
+          "name": "Incline dumbbell press",
+          "scheme": "3 sets x 10\u201315 reps"
+        },
+        {
+          "name": "Seated row",
+          "scheme": "3 sets x 10\u201315 reps"
+        },
+        {
+          "name": "Shoulder press",
+          "scheme": "3 sets x 10\u201315 reps"
+        },
+        {
+          "name": "Lat pulldown",
+          "scheme": "3 sets x 10\u201315 reps"
+        },
+        {
+          "name": "Dumbbell bicep curls",
+          "scheme": "3 sets x 10\u201315 reps"
+        },
+        {
+          "name": "Tricep pushdowns",
+          "scheme": "3 sets x 10\u201315 reps"
+        },
+        {
+          "name": "Plank or dead bugs",
+          "scheme": "2\u20133 sets x 12\u201315 reps"
+        }
+      ]
+    },
+    {
+      "day_index": 2,
+      "focus": "lower_body",
+      "equipment": "gym",
+      "goal": "lose_weight ",
+      "exercises": [
+        {
+          "name": "Leg press",
+          "scheme": "3 sets x 10\u201315 reps"
+        },
+        {
+          "name": "Lunges",
+          "scheme": "3 sets x 10\u201315 reps"
+        },
+        {
+          "name": "Hamstring curls",
+          "scheme": "3 sets x 10\u201315 reps"
+        },
+        {
+          "name": "Calf raises",
+          "scheme": "3 sets x 10\u201315 reps"
+        },
+        {
+          "name": "Glute bridges",
+          "scheme": "3 sets x 10\u201315 reps"
+        },
+        {
+          "name": "Cycling",
+          "scheme": "20\u201330 min"
+        }
+      ]
+    },
+    {
+      "day_index": 3,
+      "focus": "full_body",
+      "equipment": "gym",
+      "goal": "lose_weight ",
+      "exercises": [
+        {
+          "name": "Squats (barbell or smith machine)",
+          "scheme": "3 sets x 10\u201315 reps"
+        },
+        {
+          "name": "Romanian deadlifts",
+          "scheme": "3 sets x 10\u201315 reps"
+        },
+        {
+          "name": "Lat pulldown or assisted pull-ups",
+          "scheme": "3 sets x 10\u201315 reps"
+        },
+        {
+          "name": "Dumbbell bench press",
+          "scheme": "3 sets x 10\u201315 reps"
+        },
+        {
+          "name": "Treadmill walk (incline)",
+          "scheme": "20\u201330 min"
+        }
+      ]
+    }
+  ]
+}
